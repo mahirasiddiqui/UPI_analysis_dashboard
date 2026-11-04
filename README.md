@@ -52,8 +52,11 @@ The dashboard highlights five key metrics:
 ## Dataset
 
 The dataset was obtained through a YouTube-based learning tutorial and used for educational and dashboard development purposes.
+The original dataset is approximately 100.5 MB and is hosted externally on Google Drive due to GitHub's file size limitations.
 
 **Dataset Access:** [Access Dataset on Google Drive](https://docs.google.com/spreadsheets/d/17BwI1FPAYoFBtGTyHz4U1vYw89MEjv9m/edit?usp=drive_link&ouid=106994976282996712989&rtpof=true&sd=true)
+
+The file may not support browser preview. Please download the file to access it.
 
 ## Dashboard Demonstration
 
