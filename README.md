@@ -10,10 +10,6 @@ The dashboard provides an overview of transaction volumes, payment amounts, cash
 **Tool:** Microsoft Excel  
 **Domain:** FinTech | Business Analytics | Data Analysis
 
-## Dashboard Preview
-
-![UPI Transaction Dashboard](dashboard-preview.png)
-
 ## Key Performance Indicators (KPIs)
 
 The dashboard highlights five key metrics:
